@@ -1,4 +1,5 @@
-# 03-fundamentos
+# Indecision APP
+esta es una pequeña aplicacion de VueJS que hace un llamado a un API que responde si o no aleatorio y que se activa al realizar una pregunta, adicionalmente tiene pruebas unitarios de dos componentes con Jest
 
 ## Project setup
 ```
